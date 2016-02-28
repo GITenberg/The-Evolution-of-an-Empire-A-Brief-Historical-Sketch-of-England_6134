@@ -1,0 +1,24 @@
+_repo: The-Evolution-of-an-Empire-A-Brief-Historical-Sketch-of-England_6134
+creator:
+  author:
+    agent_name: Parmele, Mary Platt
+    birthdate: 1843
+    deathdate: 1911
+    gutenberg_agent_id: '7014'
+    url: http://www.gutenberg.org/2009/agents/7014
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Platt_Parmele
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6134'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History'
+title: 'The Evolution of an Empire: A Brief Historical Sketch of England'
+url: http://www.gutenberg.org/ebooks/6134
